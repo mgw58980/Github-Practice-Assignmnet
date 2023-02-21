@@ -1,0 +1,6 @@
+variableName,description,variableType,units
+Date,The date that the bird capture occurred,date,NA
+Site,"Site that the bird capture occurred (A, B, C, or D)",string,NA
+Species,Two letter abbreviation of bird species captured,string,NA
+Sex,"Sex of captured bird, left blank if sex not distinguishable",string,NA
+Wing_Length,Wing chord length measurement,real,mm
